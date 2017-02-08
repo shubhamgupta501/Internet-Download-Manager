@@ -1,0 +1,7 @@
+#Sat Feb 04 02:38:04 IST 2017
+proxyServerAddress=172.31.102.29
+proxyUsername=edcguest
+downloadPath=/home/racer/Desktop
+useProxy=true
+proxyPassword=edcguest
+proxyPort=3128
